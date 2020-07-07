@@ -1566,6 +1566,7 @@ setTimeout('document.getElementById("btn_ctime").style.display="none";',1000);
 																<option value="119.29.29.29#53">DNSPOD DNS
 																	(119.29.29.29)</option>
 																<option value="1.2.4.8#53">cnnic DNS (1.2.4.8)</option>
+																<option value="127.0.0.1#6053">SmartDNS (127.0.0.1#6053)</option>
 															</select>
 														</td>
 													</tr>
@@ -1600,6 +1601,7 @@ setTimeout('document.getElementById("btn_ctime").style.display="none";',1000);
 																	(114.114.114.114)</option>
 																<option value="114.114.115.115#53">Oversea Mode DNS-1
 																	(114.114.115.115)</option>
+																<option value="127.0.0.1#7053">SmartDNS (127.0.0.1#7053)</option>	
 															</select>
 														</td>
 													</tr>
